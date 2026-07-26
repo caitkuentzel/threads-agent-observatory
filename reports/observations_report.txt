@@ -1,0 +1,14 @@
+Threads Agent Observatory — Research Report
+==================================================
+Total observations: 1
+Unique usernames: 1
+Average pattern score: 46.95/100
+
+Observation #1
+Timestamp: 2026-07-25T22:45:56
+Username: @openai
+Posts per day: 18.0
+Repeated phrases: 2
+Similarity score: 0.71
+Observable Pattern Score: 46.95/100
+--------------------------------------------------
